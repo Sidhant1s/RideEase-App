@@ -15,7 +15,7 @@ RideEase is a conceptual ride safety application designed to protect users durin
 - Manual planning and architectural design
 
 ## 📄 Documentation
-See `rideease_description.pdf` for complete system overview, use cases, and feature flow.
+See RideEase_Project_Overview for complete system overview, use cases, and feature flow.
 
 ## 🧪 Current Status
 🚧 Work In Progress – Some features (UI logic, alert triggers) are under development. The code is uploaded as a functional base and concept proof.
